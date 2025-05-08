@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Billie Eilish - Uma Homenagem</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <header class="bg-black text-white text-center py-6">
+    <h1 class="text-4xl font-bold">Billie Eilish - Uma Homenagem</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Billie_Eilish_Oct_2019.jpg" alt="Imagem de Billie Eilish" class="w-full max-h-[400px] object-cover mt-4">
+  </header>
+
+  <main class="max-w-6xl mx-auto flex flex-col lg:flex-row py-10 px-4">
+    <article class="flex-1 lg:pr-8">
+      <section class="mb-8">
+        <h2 class="text-2xl font-semibold mb-2">Apresentação</h2>
+        <p><strong>Billie Eilish</strong> é uma cantora e compositora americana que conquistou o mundo com sua voz única e estilo inconfundível. Com apenas 13 anos, começou a se destacar com a música <em>“Ocean Eyes”</em>, escrita por seu irmão Finneas.</p>
+      </section>
+
+      <section class="mb-8">
+        <h2 class="text-2xl font-semibold mb-2">Carreira</h2>
+        <p><em>Desde 2015</em>, Billie Eilish vem revolucionando o cenário musical com sua estética sombria e letras profundas. Em 2019, lançou o álbum <strong>“When We All Fall Asleep, Where Do We Go?”</strong>, um sucesso mundial.</p>
+        <ul class="list-disc list-inside mt-2">
+          <li>Estilo musical que mistura pop, eletrônico e alternativo</li>
+          <li>Colaborações com seu irmão Finneas</li>
+        </ul>
+      </section>
+
+      <section class="mb-8">
+        <h2 class="text-2xl font-semibold mb-2">Principais Conquistas</h2>
+        <table class="w-full border border-gray-300">
+          <thead>
+            <tr class="bg-gray-200">
+              <th class="border px-4 py-2 text-left">Conquista</th>
+              <th class="border px-4 py-2 text-left">Ano</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="border px-4 py-2">5 prêmios Grammy nas categorias principais</td>
+              <td class="border px-4 py-2">2020</td>
+            </tr>
+            <tr>
+              <td class="border px-4 py-2">Canção do filme 007: Sem Tempo Para Morrer</td>
+              <td class="border px-4 py-2">2020</td>
+            </tr>
+            <tr>
+              <td class="border px-4 py-2">Artista do Ano pela Apple Music</td>
+              <td class="border px-4 py-2">2019</td>
+            </tr>
+            <tr>
+              <td class="border px-4 py-2">Primeira mulher a vencer quatro prêmios principais do Grammy no mesmo ano</td>
+              <td class="border px-4 py-2">2020</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-semibold mb-2">Curiosidades</h2>
+        <p>Além da música, Billie também é <strong>ativista ambiental</strong> e defensora de temas como saúde mental e direitos dos animais.</p>
+        <ul class="list-disc list-inside mt-2">
+          <li>É vegana</li>
+          <li>Tem uma linha de roupas sustentáveis</li>
+          <li>Foi capa da Vogue com visual inédito</li>
+        </ul>
+      </section>
+    </article>
+
+    <aside class="lg:w-1/3 mt-10 lg:mt-0 bg-white shadow-md p-6 rounded-xl">
+      <h2 class="text-xl font-semibold mb-4">Ficha de Identificação</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Billie_Eilish_2021.jpg/440px-Billie_Eilish_2021.jpg" alt="Billie Eilish Perfil" class="rounded-lg mb-4">
+      <p><strong>Nome completo:</strong> Billie Eilish Pirate Baird O'Connell</p>
+      <p><strong>Data de nascimento:</strong> 18 de dezembro de 2001</p>
+      <p><strong>Local de nascimento:</strong> Los Angeles, Califórnia, EUA</p>
+      <p><strong>Profissão:</strong> Cantora-compositora</p>
+    </aside>
+  </main>
+
+  <footer class="bg-black text-white text-center py-6 mt-10">
+    <p class="font-bold">Referências:</p>
+    <ul class="list-none">
+      <li><a href="https://pt.wikipedia.org/wiki/Billie_Eilish" target="_blank" class="underline text-blue-300">Wikipédia</a></li>
+      <li><a href="https://www.billieeilish.com" target="_blank" class="underline text-blue-300">Site oficial</a></li>
+      <li><a href="https://www.grammy.com" target="_blank" class="underline text-blue-300">Grammy Awards</a></li>
+    </ul>
+    <p class="mt-4 italic">Página criada em 08 de maio de 2025</p>
+  </footer>
+</body>
+</html>
